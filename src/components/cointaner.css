@@ -1,0 +1,25 @@
+.con{
+    margin: 12px;
+    padding: 12px;
+    /* border: 2px solid black; */
+    display: flex;
+    gap: 4vh;
+    box-shadow: rgb(165, 161, 161) 1px 1px 20px 0px;
+    border-radius: 3vh;
+}
+.line{
+    text-decoration: line-through;
+}
+.content{
+    /* border: 2px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.ic{
+    display: flex;
+    gap: 12px;
+}
+.black{
+    color: black;
+}

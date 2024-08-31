@@ -1,0 +1,15 @@
+.nav{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    padding: 2vh;
+    /* color: white; */
+    background-color: #af7eeb;
+}   
+.nav ul{
+    display: flex;
+    gap: 12px;
+    list-style: none;
+    justify-content: end;
+}
+  
